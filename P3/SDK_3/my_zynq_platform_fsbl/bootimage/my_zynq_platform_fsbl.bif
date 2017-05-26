@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]/media/marvin/8868F00968EFF43A/Academico/MII/SC/Vivado/zynq-freertos/sdk/my_zynq_platform_fsbl/Debug/my_zynq_platform_fsbl.elf
+	/media/marvin/8868F00968EFF43A/Academico/MII/SC/Vivado/zynq-freertos/sdk/my_zynq_platform_wrapper/design_1_wrapper.bit
+	/media/marvin/8868F00968EFF43A/Academico/MII/SC/Vivado/zynq-freertos/sdk/my_zynq_platform_freetos_demo/Debug/my_zynq_platform_freetos_demo.elf
+}

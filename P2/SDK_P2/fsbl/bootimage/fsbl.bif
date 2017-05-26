@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]/media/marvin/8868F00968EFF43A/Academico/MII/SC/Vivado/sc_2b/sc_2b.sdk/fsbl/Debug/fsbl.elf
+	/media/marvin/8868F00968EFF43A/Academico/MII/SC/Vivado/sc_2b/sc_2b.sdk/design_2_wrapper_hw_platform_0/design_2_wrapper.bit
+	/media/marvin/8868F00968EFF43A/Academico/MII/SC/Vivado/images/u-boot.elf
+}
